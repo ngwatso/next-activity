@@ -1,2 +1,2 @@
-# next-activity
+# curr-activity-countdown-timer
 Created with CodeSandbox
